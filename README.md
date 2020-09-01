@@ -96,7 +96,7 @@ python pathFinder.py
 
 Drone travelling from Reception to Room 20:
 
-[![Reception to Room 20](http://img.youtube.com/vi/ryETxRl0_kw/0.jpg)](http://https://youtu.be/ryETxRl0_kw "Demo") 
+[![Reception to Room 20](http://img.youtube.com/vi/ryETxRl0_kw/0.jpg)](https://youtu.be/ryETxRl0_kw"Demo") 
 
 
 
