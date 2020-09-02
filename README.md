@@ -7,14 +7,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Drone </h3>
+  <h3 align="center">Drone Project </h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    A drone that can navigate through the Hospital of the Future autonomously.
   </p>
 </p>
 
@@ -22,7 +18,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [Setting up the project](#setting-up-the-project)
   * [Installing Unreal Engine](#installing-unreal-engine)
   * [Installing Visual Studio and Cloning repository](#installing-visual-studio-and-cloning-repository)
   * [Installing python and dependencies](#installing-python-and-dependencies)
@@ -33,7 +29,11 @@
 
 
 ## About The Project
+This project is a component of the Hospital of the Future. It leverages Microsoft Azure services to power a drone to act as a personal assistant to patients, hospital staff & visitors at Contoso Healthcare. The 3 main objectives of the drone can be classified as:
 
+1. Autonomous navigation through the hospital facility to guide patients to different areas of the facility
+2. The drone can be used for surveillance of the hospital facility. We can use its powerful sensors and camera to monitor things such as PPE and social distancing compliance for which we have created computer vision models.
+3. Use the drone to help the staff locate equipment such the closest wheelchair or stretcher using asset tracking which can be enabled through the Azure Digital Twin of the hospital.
 
 
 ### Built with: 
@@ -42,7 +42,7 @@
 3. [**Azure digital twin:**](https://azure.microsoft.com/en-us/services/digital-twins/) Using asset tracking available through the Azure digital twin, further additions such as finding the closest unoccupied room, closest wheelchair and more can be determined and fed as a destination point for the drone.
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Setting up the project
 ### Installing Unreal Engine
 You will need to install Unreal Engine to work with this demo code using the following steps:
 
