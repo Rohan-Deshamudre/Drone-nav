@@ -86,7 +86,7 @@ Once the project is set up by following above steps, you can:
 python pathFinder.py
 ```
 * Enter the current location of drone and the destination of drone based on the Azure map below:
-![azureMap.png](images/azureMap.png)
+![azureMap.png](images/AzureMap.png)
 
 **Watch the drone navigate its way through the environment...**
 
