@@ -78,7 +78,7 @@ Once the project is set up by following above steps, you can:
 4. In `Window/World Settings` as shown below, set the `GameMode Override` to `AirSimGameMode`:
 ![sim_game_mode.png](images/sim_game_mode.png)
 ### Running the python script
-* To start simulation, press Play button on Unreal editor and select `no` on the choose vehicle popup to use quadcoptor.
+* To start simulation, press Play button on Unreal editor and select `no` on the choose vehicle popup to use quadcoptor.\
 ![play.png](images/play.png) 
 * Run `Command Prompt` as Administrator and change the current working directory to `Hospital\PythonClient\multirotor`
 * Run the navigation script using:
