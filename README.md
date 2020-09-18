@@ -70,7 +70,7 @@ pip install airsim msgpack-rpc-python
 ### Building Airsim
 Once the project is set up by following above steps, you can:
 1. Double click on Hospital.sln file to load the Contoso Healthcare environment onto Unreal Engine. 
-2. Make sure Build config is set to "Development Editor" and Win64.
+2. Make sure Build config is set to "Development Editor" and Win64.\
 ![config.png](images/config.png) 
 3. Press F5 to run. This will start the Unreal Editor. 
 4. In `Window/World Settings` as shown below, set the `GameMode Override` to `AirSimGameMode`:
