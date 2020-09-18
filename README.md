@@ -15,15 +15,15 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Setting up the project](#setting-up-the-project)
+  * [Technology Building Blocks](#technology-building-blocks)
+* [Setup](#setup)
   * [Installing Unreal Engine](#installing-unreal-engine)
   * [Installing Visual Studio and Cloning repository](#installing-visual-studio-and-cloning-repository)
   * [Installing python and dependencies](#installing-python-and-dependencies)
-* [Running the demo](#running-the-demo)
+* [Deployment](#deployment)
   * [Building Airsim](#building-airsim)
   * [Running the python script](#running-the-python-script)
-* [Videos](#videos)
+* [Demo Videos](#demo-videos)
 
 
 ## About The Project
@@ -34,13 +34,13 @@ This project is a component of the Hospital of the Future. It leverages Microsof
 3. Use the drone to help the staff locate equipment such the closest wheelchair or stretcher using asset tracking which can be enabled through the Azure Digital Twin of the hospital.
 
 
-### Built with: 
+### Technology Building Blocks: 
 1. [**Azure maps:**](https://docs.microsoft.com/en-us/azure/azure-maps/tutorial-creator-indoor-maps) The indoor module of azure maps is used to create a map of the entire hospital strucutre. A CAD floor plan was converted into map data which can further be queried for properties such as roomId, coordinates etc.
 2. [**AirSim:**](https://github.com/microsoft/AirSim) Airsim is the drone simulator that is built on unreal engine which is used to provide a visual on how the drone would move in a real hospital environment. A 3D model of the hospital was created and imported into Unreal Engine which the drone can navigate.
 3. [**Azure digital twin:**](https://azure.microsoft.com/en-us/services/digital-twins/) Using asset tracking available through the Azure digital twin, further additions such as finding the closest unoccupied room, closest wheelchair and more can be determined and fed as a destination point for the drone.
 
 <!-- GETTING STARTED -->
-## Setting up the project
+## Setup
 ### Installing Unreal Engine
 You will need to install Unreal Engine to work with this demo code using the following steps:
 
@@ -66,7 +66,7 @@ You will need to install Unreal Engine to work with this demo code using the fol
 pip install airsim msgpack-rpc-python
 ```
 
-## Running the demo
+## Deployment
 ### Building Airsim
 Once the project is set up by following above steps, you can:
 1. Double click on Hospital.sln file to load the Contoso Healthcare environment onto Unreal Engine. 
@@ -90,7 +90,7 @@ python pathFinder.py
 
 **Note**: The drone spawns at the Reception which is Room 27 on the Azure Map. This should be the start location you enter when the simulation starts.
 
-## Videos
+## Demo Videos
 
 Drone travelling from Reception to Room 20:
 
