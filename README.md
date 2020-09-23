@@ -60,7 +60,7 @@ You will need to install Unreal Engine to work with this demo code using the fol
 ### Installing python and dependencies
 * [Download](https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64-webinstall.exe) and install the latest version of python.
 * Check the box that says `Add Python to PATH`
-* Run `Command Prompt` as Administrator and change the current working directory to `Hospital\PythonClient\multirotor`
+* Run `Command Prompt` as Administrator and change the current working directory to `src\PythonClient\multirotor`
 * This package depends on `msgpack` and `airsim`. To install, copy paste this into the `Command Prompt`:
 ```
 pip install airsim msgpack-rpc-python
