@@ -69,7 +69,7 @@ pip install airsim msgpack-rpc-python
 ## Deployment
 ### Building Airsim
 Once the project is set up by following above steps, you can:
-1. Double click on Hospital.sln file to load the Contoso Healthcare environment onto Unreal Engine. 
+1. In the src folder, double click on Hospital.sln file to load the Contoso Healthcare environment onto Unreal Engine. 
 2. Make sure Build config is set to "Development Editor" and Win64.\
 ![config.png](images/config.png) 
 3. Press F5 to run. This will start the Unreal Editor. 
@@ -78,7 +78,7 @@ Once the project is set up by following above steps, you can:
 ### Running the python script
 * To start simulation, press Play button on Unreal editor and select `no` on the choose vehicle popup to use quadcoptor.\
 ![play.png](images/play.png) 
-* Run `Command Prompt` as Administrator and change the current working directory to `Hospital\PythonClient\multirotor`
+* Run `Command Prompt` as Administrator and change the current working directory to `src\PythonClient\multirotor`
 * Run the navigation script using:
 ```
 python pathFinder.py
