@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\desha\\Documents\\Drone-nav\\src\\Source\\Hospital\\Hospital.Build.cs",
+		"C:\\Users\\desha\\Documents\\Drone-nav\\src\\Plugins\\AirSim\\Source\\AirSim.Build.cs",
+		"C:\\Users\\desha\\Documents\\Drone-nav\\src\\Source\\Hospital.Target.cs",
+		"C:\\Users\\desha\\Documents\\Drone-nav\\src\\Source\\HospitalEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

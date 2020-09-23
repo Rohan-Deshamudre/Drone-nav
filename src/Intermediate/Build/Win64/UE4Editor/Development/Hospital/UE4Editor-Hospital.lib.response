@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Hospital.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\Win64\HospitalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\Win64\UE4Editor\Development\Hospital\Hospital.cpp.obj"
+"C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\Win64\UE4Editor\Development\Hospital\HospitalGameModeBase.cpp.obj"
+"C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\Win64\UE4Editor\Development\Hospital\Hospital.init.gen.cpp.obj"
+"C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\Win64\UE4Editor\Development\Hospital\HospitalGameModeBase.gen.cpp.obj"
+"C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\Win64\UE4Editor\Development\Hospital\Default.rc2.res"
+/OUT:"C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\Win64\UE4Editor\Development\Hospital\UE4Editor-Hospital.lib"
+/INCLUDE:IMPLEMENT_MODULE_Hospital

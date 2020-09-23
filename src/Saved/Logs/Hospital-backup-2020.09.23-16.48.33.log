@@ -1,0 +1,1024 @@
+﻿Log file open, 09/23/20 18:47:48
+LogInit: Display: Running engine for game: Hospital
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.526584
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AirSim
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: DebugGame
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.23-16.47.48:850][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.23-16.47.48:850][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.23-16.47.48:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Engine.ini]
+[2020.09.23-16.47.48:851][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.23-16.47.48:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Engine.ini]
+[2020.09.23-16.47.48:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Engine.ini]
+[2020.09.23-16.47.48:851][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.23-16.47.48:851][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Engine.ini]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.23-16.47.48:852][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.23-16.47.48:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Engine.ini]
+[2020.09.23-16.47.48:853][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Engine.ini]
+[2020.09.23-16.47.48:860][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.23-16.47.48:860][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.23-16.47.48:861][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.23-16.47.48:862][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.23-16.47.48:863][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.23-16.47.48:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.23-16.47.48:865][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.23-16.47.48:866][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.23-16.47.48:866][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.23-16.47.48:867][  0]LogHAL: Display: Platform has ~ 16 GB [16976998400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.23-16.47.48:867][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.23-16.47.48:867][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:867][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.23-16.47.48:867][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.23-16.47.48:867][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:867][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.23-16.47.48:867][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:867][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.23-16.47.48:867][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.23-16.47.48:868][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.23-16.47.48:869][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.23-16.47.48:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.23-16.47.48:871][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.23-16.47.48:872][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Scalability.ini]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.23-16.47.48:873][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.23-16.47.48:878][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.23-16.47.48:878][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.23-16.47.48:878][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.09.23-16.47.48:879][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Config/Windows/Engine.ini]
+[2020.09.23-16.47.48:880][  0]LogInit: Computer: ROHANLAPTOP
+[2020.09.23-16.47.48:880][  0]LogInit: User: Rohan
+[2020.09.23-16.47.48:880][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.09.23-16.47.48:880][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.23-16.47.48:880][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.09.23-16.47.48:880][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.23-16.47.48:880][  0]LogMemory: Process Physical Memory: 115.34 MB used, 115.35 MB peak
+[2020.09.23-16.47.48:880][  0]LogMemory: Process Virtual Memory: 99.18 MB used, 99.18 MB peak
+[2020.09.23-16.47.48:880][  0]LogMemory: Physical Memory: 8187.98 MB used,  8002.55 MB free, 16190.53 MB total
+[2020.09.23-16.47.48:880][  0]LogMemory: Virtual Memory: 5168.00 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.09.23-16.47.48:893][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.23-16.47.49:299][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.09.23-16.47.49:301][  0]LogInit: Using OS detected language (en-GB).
+[2020.09.23-16.47.49:302][  0]LogInit: Using OS detected locale (en-GB).
+[2020.09.23-16.47.49:319][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.09.23-16.47.49:650][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.23-16.47.49:761][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.23-16.47.49:761][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.23-16.47.52:187][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.23-16.47.52:187][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.23-16.47.52:187][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.23-16.47.52:187][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.23-16.47.53:126][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P1000' (Feature Level 11_0)
+[2020.09.23-16.47.53:127][  0]LogD3D11RHI:       4019/0/8095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.23-16.47.53:171][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.09.23-16.47.53:171][  0]LogD3D11RHI:       128/0/8095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.09.23-16.47.53:179][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.23-16.47.53:179][  0]LogD3D11RHI:       0/0/8095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.23-16.47.53:179][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.23-16.47.53:224][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.23-16.47.53:224][  0]LogD3D11RHI:     GPU DeviceId: 0x1cbb (for the marketing name, search the web for "GPU Device Id")
+[2020.09.23-16.47.53:224][  0]LogWindows: EnumDisplayDevices:
+[2020.09.23-16.47.53:224][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.09.23-16.47.53:225][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.09.23-16.47.53:225][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.09.23-16.47.53:225][  0]LogWindows:    3. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2020.09.23-16.47.53:226][  0]LogWindows:    4. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2020.09.23-16.47.53:226][  0]LogWindows:    5. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2020.09.23-16.47.53:226][  0]LogWindows:    6. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2020.09.23-16.47.53:226][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.09.23-16.47.53:226][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P1000
+[2020.09.23-16.47.53:227][  0]LogD3D11RHI:   Driver Version: 443.18 (internal:26.21.14.4318, unified:443.18)
+[2020.09.23-16.47.53:227][  0]LogD3D11RHI:      Driver Date: 5-13-2020
+[2020.09.23-16.47.53:227][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2020.09.23-16.47.53:285][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.23-16.47.53:292][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.09.23-16.47.53:293][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.23-16.47.53:293][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.09.23-16.47.53:320][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.23-16.47.53:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.23-16.47.53:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.23-16.47.53:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.23-16.47.53:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.23-16.47.53:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.23-16.47.53:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.23-16.47.53:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.23-16.47.53:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.23-16.47.53:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.23-16.47.53:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.23-16.47.53:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.23-16.47.53:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.23-16.47.53:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.23-16.47.53:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.09.23-16.47.53:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.23-16.47.53:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.23-16.47.53:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.23-16.47.53:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.23-16.47.53:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.23-16.47.53:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.23-16.47.53:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.23-16.47.53:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.23-16.47.53:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.23-16.47.53:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.23-16.47.53:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.23-16.47.53:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.23-16.47.53:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.23-16.47.53:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.23-16.47.53:879][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.23-16.47.53:932][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.23-16.47.54:106][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Intermediate/Shaders/WorkingDirectory/3960/).
+[2020.09.23-16.47.54:107][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/desha/AppData/Local/Temp/UnrealShaderWorkingDir/506DF73C4522C289D2CD8E844016F857/'.
+[2020.09.23-16.47.54:108][  0]LogXGEController: Cleaning working directory: C:/Users/desha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.23-16.47.54:109][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.23-16.47.54:109][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.23-16.47.54:109][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.23-16.47.56:788][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.23-16.47.56:879][  0]LogDerivedDataCache: Loaded boot cache 0.09s 80MB C:/Users/desha/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.23-16.47.56:880][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/desha/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.09.23-16.47.56:880][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/desha/Documents/Unreal Projects/Hospital/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.23-16.47.56:880][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.23-16.47.56:880][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/desha/Documents/Unreal Projects/Hospital/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.23-16.47.56:880][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.23-16.47.56:897][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.23-16.47.56:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.23-16.47.56:897][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.23-16.47.56:900][  0]LogDerivedDataCache: Using Local data cache path C:/Users/desha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.23-16.47.56:900][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.23-16.47.56:900][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.23-16.47.56:951][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.23-16.47.56:963][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.23-16.47.57:127][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2020.09.23-16.47.57:407][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.23-16.47.57:680][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.23-16.47.57:680][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.23-16.47.57:680][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.23-16.47.57:680][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.23-16.47.57:681][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.23-16.47.57:735][  0]LogNetVersion: Hospital 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2735403920)
+[2020.09.23-16.48.00:158][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000023DC5532980), frame # 0
+[2020.09.23-16.48.00:158][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023DCA1ADE40), frame # 0
+[2020.09.23-16.48.00:161][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023DC551E600), frame # 0
+[2020.09.23-16.48.00:253][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.056976 seconds
+[2020.09.23-16.48.00:259][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.09.23-16.48.00:259][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.09.23-16.48.00:259][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.23-16.48.01:382][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.23-16.48.01:392][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.23-16.48.01:538][  0]LogLinker: Warning: Asset '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Plugins/AirSim/Content/Blueprints/BP_PIPCamera.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.09.23-16.48.02:033][  0]LogTemp: StartupModule: AirSim plugin
+[2020.09.23-16.48.02:112][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.09.23-16.48.02:112][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.09.23-16.48.02:113][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2020.09.23-16.48.02:180][  0]SourceControl: Source control is disabled
+[2020.09.23-16.48.02:180][  0]SourceControl: Source control is disabled
+[2020.09.23-16.48.02:190][  0]SourceControl: Source control is disabled
+[2020.09.23-16.48.02:198][  0]SourceControl: Source control is disabled
+[2020.09.23-16.48.02:212][  0]SourceControl: Source control is disabled
+[2020.09.23-16.48.02:790][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.23-16.48.02:829][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.23-16.48.02:829][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.23-16.48.02:940][  0]LogOcInput: OculusInput pre-init called
+[2020.09.23-16.48.02:959][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.23-16.48.02:960][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.23-16.48.03:104][  0]LogEngine: Initializing Engine...
+[2020.09.23-16.48.03:106][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.23-16.48.03:106][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.09.23-16.48.03:108][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.09.23-16.48.03:391][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.23-16.48.03:419][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.23-16.48.03:420][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023DCF531200), frame # 0
+[2020.09.23-16.48.03:420][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023DCF4E7B00), frame # 0
+[2020.09.23-16.48.03:430][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.23-16.48.03:431][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.23-16.48.03:431][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.23-16.48.03:431][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.23-16.48.03:431][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.23-16.48.03:431][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.23-16.48.03:431][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.23-16.48.03:431][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.23-16.48.03:433][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.23-16.48.03:433][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.23-16.48.03:465][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.23-16.48.03:465][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.23-16.48.03:802][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant ISST Audio)
+[2020.09.23-16.48.03:803][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.23-16.48.03:825][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.23-16.48.03:825][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.23-16.48.03:827][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.23-16.48.03:829][  0]LogInit: FAudioDevice initialized.
+[2020.09.23-16.48.03:830][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.23-16.48.03:877][  0]LogDerivedDataCache: Saved boot cache 0.05s 80MB C:/Users/desha/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.23-16.48.03:885][  0]LogInit: Texture streaming: Enabled
+[2020.09.23-16.48.03:922][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.23-16.48.03:922][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.23-16.48.03:923][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.23-16.48.03:987][  0]LogInit: Transaction tracking system initialized
+[2020.09.23-16.48.04:040][  0]BlueprintLog: New page: Editor Load
+[2020.09.23-16.48.04:225][  0]LocalizationService: Localization service is disabled
+[2020.09.23-16.48.04:751][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.23-16.48.04:752][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.23-16.48.05:109][  0]LogFileCache: Scanning file cache for directory 'C:/Users/desha/Documents/Unreal Projects/Hospital/Content/' took 0.01s
+[2020.09.23-16.48.05:351][  0]SourceControl: Source control is disabled
+[2020.09.23-16.48.05:351][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.683
+[2020.09.23-16.48.05:352][  0]Cmd: MAP LOAD FILE="../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HospitalWorking.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.23-16.48.05:357][  0]LightingResults: New page: Lighting Build
+[2020.09.23-16.48.05:361][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.23-16.48.05:362][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.23-16.48.05:362][  0]MapCheck: New page: Map Check
+[2020.09.23-16.48.05:362][  0]LightingResults: New page: Lighting Build
+[2020.09.23-16.48.05:378][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023DCF531200), frame # 0
+[2020.09.23-16.48.05:378][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023DCF4E7B00), frame # 0
+[2020.09.23-16.48.05:380][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.09.23-16.48.06:247][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh231.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.06:247][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh231.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.06:248][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh231.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.06:248][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh231.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.06:335][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh241.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.06:336][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh241.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.06:336][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh241.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.06:336][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh241.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.06:369][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh247.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:369][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh247.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:384][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh247.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:385][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh247.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:405][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh249.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:405][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh249.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:424][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh249.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:424][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh249.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:472][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh252.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:472][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh252.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:487][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh252.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:487][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh252.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:493][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh253.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:494][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh253.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:494][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh253.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:494][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh253.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:505][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh255.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:505][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh255.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:506][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh255.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:506][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh255.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:522][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh258.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:522][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh258.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:523][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh258.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.06:523][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh258.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:177][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh371.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:177][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh371.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:177][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh371.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:178][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh371.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:183][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh372.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:183][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh372.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:184][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh372.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:184][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh372.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:189][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh373.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:190][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh373.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:190][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh373.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:190][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh373.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:196][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh374.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:196][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh374.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:196][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh374.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:197][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh374.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:202][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh375.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:202][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh375.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:203][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh375.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:203][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh375.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:209][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh377.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:209][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh377.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:210][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh377.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:210][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh377.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:242][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh382.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:242][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh382.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:243][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh382.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:243][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh382.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:303][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh392.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:303][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh392.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:304][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh392.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:304][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh392.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:367][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh402.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:367][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh402.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:368][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh402.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:368][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh402.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:917][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh402.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:917][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh402
+[2020.09.23-16.48.07:917][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh402.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:917][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh402
+[2020.09.23-16.48.07:918][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh402.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:918][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh402
+[2020.09.23-16.48.07:918][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh402.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:918][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh402
+[2020.09.23-16.48.07:920][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh392.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:920][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh392
+[2020.09.23-16.48.07:920][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh392.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:920][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh392
+[2020.09.23-16.48.07:921][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh392.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:921][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh392
+[2020.09.23-16.48.07:921][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh392.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:921][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh392
+[2020.09.23-16.48.07:922][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh382.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:923][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh382
+[2020.09.23-16.48.07:923][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh382.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:923][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh382
+[2020.09.23-16.48.07:923][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh382.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:923][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh382
+[2020.09.23-16.48.07:923][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh382.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:923][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh382
+[2020.09.23-16.48.07:925][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh377.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:925][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh377
+[2020.09.23-16.48.07:926][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh377.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:926][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh377
+[2020.09.23-16.48.07:926][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh377.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:926][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh377
+[2020.09.23-16.48.07:926][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh377.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:926][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh377
+[2020.09.23-16.48.07:927][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh375.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:927][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh375
+[2020.09.23-16.48.07:927][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh375.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:927][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh375
+[2020.09.23-16.48.07:927][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh375.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:928][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh375
+[2020.09.23-16.48.07:928][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh375.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:928][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh375
+[2020.09.23-16.48.07:928][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh371.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:928][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh371
+[2020.09.23-16.48.07:929][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh371.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:929][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh371
+[2020.09.23-16.48.07:929][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh371.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:929][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh371
+[2020.09.23-16.48.07:929][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh371.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:929][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh371
+[2020.09.23-16.48.07:930][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh374.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:931][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh374
+[2020.09.23-16.48.07:931][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh374.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:931][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh374
+[2020.09.23-16.48.07:931][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh374.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:931][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh374
+[2020.09.23-16.48.07:931][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh374.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:931][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh374
+[2020.09.23-16.48.07:932][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh373.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:932][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh373
+[2020.09.23-16.48.07:932][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh373.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:932][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh373
+[2020.09.23-16.48.07:932][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh373.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:932][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh373
+[2020.09.23-16.48.07:933][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh373.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:933][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh373
+[2020.09.23-16.48.07:933][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh372.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:933][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh372
+[2020.09.23-16.48.07:933][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh372.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:933][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh372
+[2020.09.23-16.48.07:934][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh372.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:934][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh372
+[2020.09.23-16.48.07:934][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh372.uasset' failed to load '/Game/Hospital/_7': Can't find file.
+[2020.09.23-16.48.07:934][  0]LoadErrors: Failed to load /Game/Hospital/_7.Material_0 Referenced by Mesh372
+[2020.09.23-16.48.07:979][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh255.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:980][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh255
+[2020.09.23-16.48.07:980][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh255.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:980][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh255
+[2020.09.23-16.48.07:980][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh255.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:980][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh255
+[2020.09.23-16.48.07:981][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh255.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:981][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh255
+[2020.09.23-16.48.07:982][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh258.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:982][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh258
+[2020.09.23-16.48.07:982][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh258.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:983][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh258
+[2020.09.23-16.48.07:983][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh258.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:983][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh258
+[2020.09.23-16.48.07:983][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh258.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:983][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh258
+[2020.09.23-16.48.07:984][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh253.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:984][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh253
+[2020.09.23-16.48.07:984][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh253.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:984][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh253
+[2020.09.23-16.48.07:985][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh253.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:985][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh253
+[2020.09.23-16.48.07:985][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh253.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:985][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh253
+[2020.09.23-16.48.07:986][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh252.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:986][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh252
+[2020.09.23-16.48.07:986][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh252.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:986][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh252
+[2020.09.23-16.48.07:986][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh252.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:986][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh252
+[2020.09.23-16.48.07:987][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh252.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:987][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh252
+[2020.09.23-16.48.07:990][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh249.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:990][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh249
+[2020.09.23-16.48.07:990][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh249.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:990][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh249
+[2020.09.23-16.48.07:991][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh249.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:991][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh249
+[2020.09.23-16.48.07:991][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh249.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:991][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh249
+[2020.09.23-16.48.07:992][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh247.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:992][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh247
+[2020.09.23-16.48.07:992][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh247.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:993][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh247
+[2020.09.23-16.48.07:993][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh247.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:993][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh247
+[2020.09.23-16.48.07:993][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh247.uasset' failed to load '/Game/Hospital/_2': Can't find file.
+[2020.09.23-16.48.07:993][  0]LoadErrors: Failed to load /Game/Hospital/_2.Material_0 Referenced by Mesh247
+[2020.09.23-16.48.07:994][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh241.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:994][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh241
+[2020.09.23-16.48.07:994][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh241.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:994][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh241
+[2020.09.23-16.48.07:995][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh241.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:995][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh241
+[2020.09.23-16.48.07:995][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh241.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:995][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh241
+[2020.09.23-16.48.07:997][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh231.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:997][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh231
+[2020.09.23-16.48.07:997][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh231.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:997][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh231
+[2020.09.23-16.48.07:998][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh231.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:998][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh231
+[2020.09.23-16.48.07:998][  0]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/Hospital/Mesh231.uasset' failed to load '/Game/Hospital/_14': Can't find file.
+[2020.09.23-16.48.07:998][  0]LoadErrors: Failed to load /Game/Hospital/_14.Material_0 Referenced by Mesh231
+[2020.09.23-16.48.16:521][  0]LogAIModule: Creating AISystem for world HospitalWorking
+[2020.09.23-16.48.16:521][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023DBA113E00), frame # 0
+[2020.09.23-16.48.16:521][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023DBA0FFB00), frame # 0
+[2020.09.23-16.48.16:578][  0]PIE: Warning: AttachTo: '/Game/HospitalWorking.HospitalWorking:PersistentLevel.FbxScene_Hospital-inside_3D.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Hospital-inside_3D"), cannot attach '/Game/HospitalWorking.HospitalWorking:PersistentLevel.FbxScene_Hospital-inside_3D.Model' which is static to it. Aborting.
+[2020.09.23-16.48.16:653][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.23-16.48.16:671][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.09.23-16.48.16:672][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.23-16.48.16:672][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.483ms to complete.
+[2020.09.23-16.48.16:672][  0]LogFileHelpers: Loading map 'HospitalWorking' took 11.321
+[2020.09.23-16.48.16:709][  0]LogUnrealEdMisc: Total Editor Startup Time, took 34.042
+[2020.09.23-16.48.16:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.23-16.48.16:930][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.23-16.48.16:937][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.23-16.48.16:943][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.23-16.48.16:969][  0]LogCollectionManager: Loaded 0 collections in 0.001732 seconds
+[2020.09.23-16.48.17:001][  0]LogFileCache: Scanning file cache for directory 'C:/Users/desha/Documents/Unreal Projects/Hospital/Saved/Collections/' took 0.00s
+[2020.09.23-16.48.17:001][  0]LogFileCache: Scanning file cache for directory 'C:/Users/desha/Documents/Unreal Projects/Hospital/Content/Developers/Rohan/Collections/' took 0.00s
+[2020.09.23-16.48.17:001][  0]LogFileCache: Scanning file cache for directory 'C:/Users/desha/Documents/Unreal Projects/Hospital/Content/Collections/' took 0.00s
+[2020.09.23-16.48.17:001][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 3447 classes and 832 folders.
+[2020.09.23-16.48.17:010][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.23-16.48.17:537][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.23-16.48.17:542][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.09.23-16.48.17:743][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.23-16.48.17:743][  0]LogLoad: (Engine Initialization) Total time: 35.08 seconds
+[2020.09.23-16.48.17:743][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.23-16.48.17:800][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.23-16.48.17:960][  0]LogSlate: Took 0.005460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.23-16.48.17:968][  0]LogSlate: Took 0.005199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.23-16.48.17:979][  0]LogSlate: Took 0.005776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.23-16.48.18:103][  0]LogRenderer: Reallocating scene render targets to support 824x380 Format 10 NumSamples 1 (Frame:1).
+[2020.09.23-16.48.18:104][  0]LogSlate: Took 0.007463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.23-16.48.18:145][  0]LogSlate: Took 0.008329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.23-16.48.18:271][  2]LogAssetRegistry: Asset discovery search completed in 21.1480 seconds
+[2020.09.23-16.48.18:277][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.09.23-16.48.22:193][379]LogSlate: Window 'Message Log' being destroyed
+[2020.09.23-16.48.22:202][379]LogSlate: Window 'Message Log' being destroyed
+[2020.09.23-16.48.23:500][520]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:509).
+[2020.09.23-16.48.31:986][359]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.23-16.48.32:267][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1019.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:267][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1019.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:300][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1019.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:300][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1019.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:314][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1020.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:315][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1020.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:315][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1020.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:315][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1020.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:321][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1021.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:321][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1021.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:321][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1021.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:322][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1021.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:332][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1022.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:332][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1022.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:332][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1022.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:332][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1022.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:338][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1023.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:339][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1023.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:339][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1023.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:340][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1023.uasset' failed to load '/Game/HP2/_15': Can't find file.
+[2020.09.23-16.48.32:348][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1024.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:349][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1024.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:349][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1024.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:349][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1024.uasset' failed to load '/Game/HP2/_13': Can't find file.
+[2020.09.23-16.48.32:470][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1041.uasset' failed to load '/Game/HP2/_14': Can't find file.
+[2020.09.23-16.48.32:470][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1041.uasset' failed to load '/Game/HP2/_14': Can't find file.
+[2020.09.23-16.48.32:470][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1041.uasset' failed to load '/Game/HP2/_14': Can't find file.
+[2020.09.23-16.48.32:471][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1041.uasset' failed to load '/Game/HP2/_14': Can't find file.
+[2020.09.23-16.48.32:594][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1051.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:594][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1051.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:594][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1051.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:595][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1051.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:600][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1052.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:600][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1052.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:601][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1052.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:601][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1052.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:607][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1053.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:607][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1053.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:608][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1053.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:608][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1053.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:641][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1058.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:641][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1058.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:641][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1058.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:642][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1058.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:647][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1059.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:647][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1059.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:647][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1059.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:647][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1059.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:657][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1060.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:657][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1060.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:658][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1060.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:658][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1060.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:686][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1065.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:687][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1065.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:687][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1065.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:687][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1065.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:692][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1066.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:693][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1066.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:693][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1066.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:693][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1066.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:698][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1067.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:699][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1067.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:699][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1067.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:699][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1067.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:733][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1072.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:733][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1072.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:733][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1072.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:733][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1072.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:738][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1073.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:739][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1073.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:739][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1073.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:739][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1073.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:744][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1074.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:745][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1074.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:745][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1074.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:745][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1074.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:794][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1080.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:795][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1080.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:795][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1080.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:795][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1080.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:801][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1081.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:801][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1081.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:801][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1081.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:802][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1081.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:807][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1082.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:807][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1082.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:807][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1082.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:807][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1082.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:853][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1087.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:855][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1087.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:855][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1087.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:855][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1087.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:859][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1088.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:861][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1088.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:861][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1088.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:861][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1088.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:866][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1089.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:866][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1089.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:867][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1089.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:867][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1089.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:897][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1094.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:897][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1094.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:898][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1094.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:898][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1094.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:903][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1095.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:903][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1095.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:904][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1095.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:904][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1095.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:909][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1096.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:909][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1096.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:910][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1096.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:910][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1096.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:945][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1101.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:945][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1101.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:946][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1101.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:946][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1101.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:951][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1102.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:952][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1102.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:952][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1102.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:952][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1102.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:958][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1103.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:958][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1103.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:958][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1103.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:959][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1103.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:986][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1108.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:987][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1108.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:987][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1108.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:987][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1108.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.32:993][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1109.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:993][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1109.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:994][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1109.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.32:994][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1109.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:004][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1110.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:004][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1110.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:005][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1110.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:005][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1110.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:038][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1116.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.33:038][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1116.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.33:038][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1116.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.33:039][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1116.uasset' failed to load '/Game/HP2/_18': Can't find file.
+[2020.09.23-16.48.33:044][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1117.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:044][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1117.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:044][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1117.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:044][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1117.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:049][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1118.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:050][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1118.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:050][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1118.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:050][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1118.uasset' failed to load '/Game/HP2/_16': Can't find file.
+[2020.09.23-16.48.33:176][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1139.uasset' failed to load '/Game/HP2/_19': Can't find file.
+[2020.09.23-16.48.33:177][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1139.uasset' failed to load '/Game/HP2/_19': Can't find file.
+[2020.09.23-16.48.33:182][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1139.uasset' failed to load '/Game/HP2/_19': Can't find file.
+[2020.09.23-16.48.33:182][359]LogLinker: Warning: While loading '../../../../../../Users/desha/Documents/Unreal Projects/Hospital/Content/HP2/Mesh1139.uasset' failed to load '/Game/HP2/_19': Can't find file.

@@ -1,0 +1,3 @@
+C:\Users\desha\Documents\Drone-nav\src\Intermediate\Build\Win64\UE4Editor\DebugGame\Hospital\Definitions.Hospital.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

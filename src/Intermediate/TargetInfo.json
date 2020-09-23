@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Hospital",
+			"Path": "C:\\Users\\desha\\Documents\\Unreal Projects\\Hospital\\Source\\Hospital.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HospitalEditor",
+			"Path": "C:\\Users\\desha\\Documents\\Unreal Projects\\Hospital\\Source\\HospitalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
