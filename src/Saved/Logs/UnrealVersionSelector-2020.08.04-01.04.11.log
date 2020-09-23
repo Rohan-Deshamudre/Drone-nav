@@ -1,0 +1,55 @@
+AndroidPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.AndroidPlatformSDK has no valid SDK
+IOSPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.IOSPlatformSDK has no valid SDK
+HTML5PlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.HTML5PlatformSDK using manually installed SDK
+LinuxPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.LinuxPlatformSDK has no valid SDK
+WindowsPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.WindowsPlatformSDK using manually installed SDK
+ProjectFileGenerator.GenerateProjectFiles: Discovering modules, targets and source code for project...
+WindowsPlatform.FindVSInstallDirs: Found Visual Studio installation: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community (Product=Microsoft.VisualStudio.Product.Community, Version=16.6.30225.117, Sort=0)
+WindowsPlatform.FindToolChainDirs: Found Visual Studio toolchain: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801 (Version=14.26.28801)
+WindowsPlatform.EnumerateSdkRootDirs: Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+WindowsPlatform.EnumerateSdkRootDirs: Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+WindowsPlatform.UpdateCachedWindowsSdks: Found Windows 10 SDK version 10.0.18362.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Universal CRT version 10.0.18362.0 at C:\Program Files (x86)\Windows Kits\10
+DynamicCompilation.RequiresCompilation: Compiling C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\BuildRules\HospitalModuleRules.dll: UnrealBuildTool.exe is newer
+DynamicCompilation.CompileAssembly: While compiling C:\Users\desha\Documents\Unreal Projects\Hospital\Intermediate\Build\BuildRules\HospitalModuleRules.dll:
+DynamicCompilation.CompileAssembly: c:\Users\desha\Documents\Unreal Projects\Hospital\Source\Hospital.Target.cs(11,3) : error CS0103: The name 'DefaultBuildSettings' does not exist in the current context
+DynamicCompilation.CompileAssembly: c:\Users\desha\Documents\Unreal Projects\Hospital\Source\Hospital.Target.cs(11,26) : error CS0103: The name 'BuildSettingsVersion' does not exist in the current context
+DynamicCompilation.CompileAssembly: c:\Users\desha\Documents\Unreal Projects\Hospital\Source\HospitalEditor.Target.cs(11,3) : error CS0103: The name 'DefaultBuildSettings' does not exist in the current context
+DynamicCompilation.CompileAssembly: c:\Users\desha\Documents\Unreal Projects\Hospital\Source\HospitalEditor.Target.cs(11,26) : error CS0103: The name 'BuildSettingsVersion' does not exist in the current context
+UnrealBuildTool.Main: ERROR: Unable to compile source files.
+UnrealBuildTool.Main: BuildException: Unable to compile source files.
+UnrealBuildTool.Main:    at UnrealBuildTool.DynamicCompilation.CompileAssembly(FileReference OutputAssemblyPath, HashSet`1 SourceFileNames, List`1 ReferencedAssembies, List`1 PreprocessorDefines, Boolean TreatWarningsAsErrors) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\DynamicCompilation.cs:line 361
+UnrealBuildTool.Main:    at UnrealBuildTool.DynamicCompilation.CompileAndLoadAssembly(FileReference OutputAssemblyPath, HashSet`1 SourceFileNames, List`1 ReferencedAssembies, List`1 PreprocessorDefines, Boolean DoNotCompile, Boolean TreatWarningsAsErrors) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\DynamicCompilation.cs:line 427
+UnrealBuildTool.Main:    at UnrealBuildTool.RulesAssembly..ctor(DirectoryReference BaseDir, IReadOnlyList`1 Plugins, List`1 ModuleFiles, List`1 TargetFiles, Dictionary`2 ModuleFileToPluginInfo, FileReference AssemblyFileName, Boolean bContainsEngineModules, Boolean bUseBackwardsCompatibleDefaults, Boolean bReadOnly, Boolean bSkipCompile, RulesAssembly Parent) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\RulesAssembly.cs:line 109
+UnrealBuildTool.Main:    at UnrealBuildTool.RulesCompiler.CreateProjectRulesAssembly(FileReference ProjectFileName, Boolean bUsePrecompiled, Boolean bSkipCompile) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\RulesCompiler.cs:line 488
+UnrealBuildTool.Main:    at UnrealBuildTool.ProjectFileGenerator.AddProjectsForAllTargets(PlatformProjectGeneratorCollection PlatformProjectGenerators, List`1 AllGames, ProjectFile& EngineProject, ProjectFile& EnterpriseProject, List`1& GameProjects, Dictionary`2& ProgramProjects) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 2104
+UnrealBuildTool.Main:    at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 674
+UnrealBuildTool.Main:    at UnrealBuildTool.GenerateProjectFilesMode.Execute(CommandLineArguments Arguments) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 172
+UnrealBuildTool.Main:    at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 443
+Timeline.Print: Timeline:
+Timeline.Print: 
+Timeline.Print: [ 0.000]
+Timeline.Print: [ 0.000](+0.027) <unknown>
+Timeline.Print: [ 0.027](+0.072) XmlConfig.ReadConfigFiles()
+Timeline.Print: [ 0.099](+0.000) SingleInstanceMutex.Acquire()
+Timeline.Print: [ 0.099](+0.053) UEBuildPlatform.RegisterPlatforms()
+Timeline.Print:   0.100          [ 0.000](+0.020) Initializing InstalledPlatformInfo
+Timeline.Print:   0.121          [ 0.021](+0.000) Querying types
+Timeline.Print:   0.122          [ 0.022](+0.001) MacPlatformFactory
+Timeline.Print:   0.123          [ 0.024](+0.000) TVOSPlatformFactory
+Timeline.Print:   0.124          [ 0.024](+0.008) AndroidPlatformFactory
+Timeline.Print:   0.132          [ 0.032](+0.012) IOSPlatformFactory
+Timeline.Print:   0.144          [ 0.045](+0.004) HTML5PlatformFactory
+Timeline.Print:   0.149          [ 0.049](+0.001) LinuxPlatformFactory
+Timeline.Print:   0.150          [ 0.051](+0.000) LuminPlatformFactory
+Timeline.Print:   0.151          [ 0.051](+0.001) WindowsPlatformFactory
+Timeline.Print: [ 0.152](+0.248) <unknown>
+Timeline.Print: [ 0.401](+0.001) Finding engine modules
+Timeline.Print: [ 0.403](+0.002) Finding plugin modules
+Timeline.Print: [ 0.405](+0.031) <unknown>
+Timeline.Print: [ 0.436](+0.000) Finding program modules
+Timeline.Print: [ 0.437](+0.000) Finding program targets
+Timeline.Print: [ 0.437](+0.314) <unknown>
+Timeline.Print: [ 0.751](+0.062) Compiling rules assembly (HospitalModuleRules.dll)
+Timeline.Print: [ 0.822](+0.000) FileMetadataPrefetch.Stop()
+Timeline.Print: [ 0.824]
