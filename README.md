@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Hospital of the Future - Drone navigation
 
 <!-- PROJECT LOGO -->
@@ -23,7 +25,7 @@
 * [Deployment](#deployment)
   * [Building Airsim](#building-airsim)
   * [Running the python script](#running-the-python-script)
-* [Demo Videos](#demo-videos)
+* [Demo Video](#demo-video)
 
 
 ## About The Project
@@ -93,12 +95,20 @@ python pathFinder.py
 
 **Note**: The drone spawns at the Reception which is Room 27 on the Azure Map. This should be the start location you enter when the simulation starts.
 
-## Demo Videos
+## Demo Video
 
 Drone travelling from Reception to Room 20:
 
 [![Reception to Room 20](http://img.youtube.com/vi/ryETxRl0_kw/0.jpg)](https://youtu.be/ryETxRl0_kw) 
 
+## Eventual Impact
+This solution can be utilized in multiple hospitals over the world to reduce workload of hospital staff and it cuts the necessity for them to do these dangerous surveillance tasks manually. As an addition to hospitals, it can also be used as a guide to help people navigate their way around places such as airports, mega stores and other large facilities. The computer vision models deployed on the drone will help contain the spread of diseases and can be further enhanced to work in public areas other than hospitals to enforce health and safety protocols.
+
+## Contact
+
+Rohan Deshamudre  - deshamudrerohan@outlook.com
 
 
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/rohan-deshamudre-5790aa1b0/
 
