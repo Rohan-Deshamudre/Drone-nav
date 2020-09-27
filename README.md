@@ -57,7 +57,7 @@ You will need to install Unreal Engine to work with this demo code using the fol
 **Make sure** to select **Desktop Development with C++** and **Windows 10 SDK 10.0.18362** (should be selected by default) while installing VS 2019.
 * [Download](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-developer-pack-offline-installer) and install .NET Framework Developer pack >= 4.6.
 * Start `Command Prompt` and change the current working directory to the location where you want the cloned directory to be made.
-* Clone the drone project repo: `INSERT URL HERE`.
+* Clone the drone project repo: `https://github.com/Rohan-Deshamudre/Drone-navigation.git`.
 * Start `Developer Command Prompt for VS 2019`
 * Clone the airsim repo: `git clone https://github.com/Microsoft/AirSim.git` and go the AirSim directory by `cd Airsim`
 * Run `build.cmd` from the command line. This will create ready to use plugin bits in the `Unreal\Plugins` folder and drop it into the src folder of the drone project.
